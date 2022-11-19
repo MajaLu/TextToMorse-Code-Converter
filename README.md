@@ -1,1 +1,1 @@
-# TextToMorse-Code-Converter
+# Simple TextToMorse-Code-Converter
